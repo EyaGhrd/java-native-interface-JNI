@@ -1,0 +1,4 @@
+Foreign Function and Memory (FFM) API
+The FFM API allows Java programs to interoperate safely and more easily with code and data outside the Java runtime.
+Unlike JNI, which often involves brittle and error-prone boilerplate code,
+the FFM API aims to provide a more straightforward and safer method for calling native libraries and manipulating native data
